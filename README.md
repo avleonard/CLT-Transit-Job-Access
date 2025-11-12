@@ -6,3 +6,7 @@
 - By providing map-driven evidence for prioritization corridors and last-mile improvements, the project aims to inform planning decisions for greater equity and opportunity across Charlotte’s transit network.
 
 ---
+- Capstone.pdf: The final paper submitted for evaluation and the true deliverable of this project.
+- Final-Notebook.ipynb: Notebook used to create visuals for the paper.
+
+---
