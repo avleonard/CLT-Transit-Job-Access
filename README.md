@@ -1,12 +1,13 @@
-# Minding the Gap: CLT Transit & Job Access
-- From the final Data Science Studio of my undergrad, this project analyzes how many jobs are within a ½-mile walkshed of Charlotte’s fixed-guideway transit (LYNX) and where the largest access gaps exist.
+Minding the Gap: CLT Transit & Job Access
 
-- Using GIS (Geographic Information Systems) and job distribution data, we measure jobs inside and outside the walkshed, compare patterns by job type, and overlay equity indicators such as income and transit dependence.
+This project analyzes job accessibility across Charlotte by measuring how many employment opportunities fall within a ½-mile walkshed of the city’s fixed-guideway transit system (LYNX). Using GIS methods, spatial data, and demographic indicators, the project identifies underserved job centers, highlights inequities in transit access, and provides evidence to guide corridor planning and last-mile improvements.
 
-- By providing map-driven evidence for prioritization corridors and last-mile improvements, the project aims to inform planning decisions for greater equity and opportunity across Charlotte’s transit network.
+Developed during the final Data Science Studio of my undergraduate degree, this project was completed over a full semester of group collaboration, research, and multiple presentations. It serves as my capstone project.
 
----
-- Capstone.pdf: The final paper submitted for evaluation and the true deliverable of this project.
-- Final-Notebook.ipynb: Notebook used to create visuals for the paper.
+Technologies: Pandas, ArcGIS Pro, GeoPandas, Matplotlib
 
----
+Repository Files
+
+Capstone.pdf: Final project report.
+
+Capstone.ipynb: Notebook used to create visualizations.
