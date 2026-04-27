@@ -4,10 +4,9 @@ This project analyzes job accessibility across Charlotte by measuring how many e
 
 Developed during the final Data Science Studio of my undergraduate degree, this project was completed over a full semester of group collaboration, research, and multiple presentations. It serves as my capstone project.
 
-> Technologies: Pandas, ArcGIS Pro, GeoPandas, Matplotlib
+> Technologies: Python (pandas, ArcGIS Pro, GeoPandas, Matplotlib)
 
 ---
 
 **Repository Files**
 - Capstone.pdf: Final project report.
-- Capstone.ipynb: Notebook used to create visualizations.
